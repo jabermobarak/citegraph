@@ -1,0 +1,20 @@
+{
+  "source_sha256": "218e3c86146cf6d470b305d824f26c86845f0c858ad3fdd269f6cd2ce63e12bd",
+  "features": 500,
+  "hidden": 64,
+  "release_seed": 11,
+  "models": {
+    "gcn": {
+      "temperature": 0.7674046178884205,
+      "threshold": 0.8300000000000001,
+      "sha256": "0653156a1ab15adec5e2ccf18d4b96fca0cac003ba2f5390c5f72cb84f127145"
+    },
+    "mlp": {
+      "temperature": 0.7371434966682493,
+      "threshold": 1.01,
+      "sha256": "6b78c2f61dde20a800bb6ff24f1f674ea00d932c8371f01d8546aee3a925f08d"
+    }
+  },
+  "split_sha256": "b835376bfe8dd95d3524b4953038d1e1928e96fb111d71a84b1045a8f1bf7f84",
+  "report_sha256": "cd3319781cb610aa82a89f598d3e2582f96d1711090770f9fba6e01c5b246416"
+}
